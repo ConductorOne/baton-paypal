@@ -1,6 +1,6 @@
 ![Baton Logo](./docs/images/baton-logo.png)
 
-# `baton-paypal` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-paypal.svg)](https://pkg.go.dev/github.com/conductorone/baton-paypal) ![main ci](https://github.com/conductorone/baton-paypal/actions/workflows/main.yaml/badge.svg)
+# `baton-paypal` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-paypal.svg)](https://pkg.go.dev/github.com/conductorone/baton-paypal) ![ci](https://github.com/conductorone/baton-paypal/actions/workflows/ci.yaml/badge.svg)
 
 `baton-paypal` is a connector for built using the [Baton SDK](https://github.com/conductorone/baton-sdk).
 
